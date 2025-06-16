@@ -4,7 +4,6 @@ const dotenv = require('dotenv');
 const authRoutes = require('./routes/authRoutes');
 const movieRoutes = require('./routes/movieRoutes');
 const reviewRoutes = require('./routes/reviewRoutes');
-const { authMiddleware } = require('./middleware/auth');
 
 dotenv.config();
 
