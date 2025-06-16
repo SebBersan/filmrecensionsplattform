@@ -36,9 +36,9 @@ Hämta alla filmer.
 ---
 
 ### Search Movie  
-Sök efter filmer baserat på titel eller andra kriterier.
+Sök efter filmer baserat på id.
 
-![Search Movie](path/to/search-movie-image.png)
+![Search Movie](images/search-movies-id.png)
 
 ---
 
